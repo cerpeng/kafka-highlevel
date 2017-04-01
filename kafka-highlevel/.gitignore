@@ -2,9 +2,9 @@
 /log
 /target
 /.settings
+target
 .classpath
 .project
-target
 /bin
 #idea
 *.iml
@@ -12,7 +12,7 @@ target
 .idea/
 # IntelliJ
 out/
-targer/
+target/
 ## File-based project format:
 *.ipr
 *.iws
