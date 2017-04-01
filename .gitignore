@@ -2,6 +2,7 @@
 /log
 /target
 /.settings
+/.DS_Store
 .classpath
 .project
 target
@@ -12,7 +13,7 @@ target
 .idea/
 # IntelliJ
 out/
-targer/
+target/
 ## File-based project format:
 *.ipr
 *.iws
